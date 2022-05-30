@@ -1,3 +1,3 @@
 # Welcome to my website
 
-## Click 'About Me' for my information
+Click 'About Me' for my information
